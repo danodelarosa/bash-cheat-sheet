@@ -1,0 +1,6 @@
+Este es un archivo
+que contiene texto
+en varias linea
+que sirve para poder leerse
+y ser utilizado de ejemplo
+final
