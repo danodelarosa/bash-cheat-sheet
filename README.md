@@ -1,1 +1,1 @@
-# bash-cheat-sheet
+# Notas personales sobre bash
