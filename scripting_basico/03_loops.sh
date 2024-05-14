@@ -11,8 +11,9 @@ done
 
 LINEA=1
 
-while read -r LINEA
+while read -r LINEA_ACTUAL
 do
-    echo "$LINEA : $LINEA_ACTUAL"
-    (( LINEA++ ))
+    echo "$LINEA: $LINEA_ACTUAL";
+    ((LINEA++))
+    
 done < "ejemplo.txt"
